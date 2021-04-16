@@ -5,8 +5,8 @@ import (
 	"errors"
 
 	"github.com/jackc/pgconn"
-	"github.com/jackc/pgtype"
-	"github.com/jackc/pgx/v4"
+	"github.com/matthewpi/pgtype"
+	"github.com/matthewpi/pgx/v4"
 )
 
 type Querier interface {

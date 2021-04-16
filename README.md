@@ -1,5 +1,5 @@
-[![](https://godoc.org/github.com/jackc/pgtype?status.svg)](https://godoc.org/github.com/jackc/pgtype)
-![CI](https://github.com/jackc/pgtype/workflows/CI/badge.svg)
+[![](https://godoc.org/github.com/matthewpi/pgtype?status.svg)](https://godoc.org/github.com/matthewpi/pgtype)
+![CI](https://github.com/matthewpi/pgtype/workflows/CI/badge.svg)
 
 # pgtype
 

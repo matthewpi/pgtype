@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jackc/pgtype"
+	"github.com/matthewpi/pgtype"
 	"github.com/stretchr/testify/require"
 )
 

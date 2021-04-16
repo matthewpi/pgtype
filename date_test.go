@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jackc/pgtype"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/matthewpi/pgtype"
+	"github.com/matthewpi/pgtype/testutil"
 )
 
 func TestDateTranscode(t *testing.T) {

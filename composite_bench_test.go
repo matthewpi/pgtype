@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/jackc/pgio"
-	"github.com/jackc/pgtype"
+	"github.com/matthewpi/pgtype"
 	"github.com/stretchr/testify/require"
 )
 

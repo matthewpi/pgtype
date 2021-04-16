@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jackc/pgtype"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/matthewpi/pgtype"
+	"github.com/matthewpi/pgtype/testutil"
 )
 
 func TestInt2ArrayTranscode(t *testing.T) {

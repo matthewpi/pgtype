@@ -3,7 +3,7 @@ package zeronull
 import (
 	"database/sql/driver"
 
-	"github.com/jackc/pgtype"
+	"github.com/matthewpi/pgtype"
 )
 
 type Int8 int64

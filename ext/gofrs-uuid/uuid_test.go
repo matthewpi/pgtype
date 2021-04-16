@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jackc/pgtype"
-	gofrs "github.com/jackc/pgtype/ext/gofrs-uuid"
-	"github.com/jackc/pgtype/testutil"
+	"github.com/matthewpi/pgtype"
+	gofrs "github.com/matthewpi/pgtype/ext/gofrs-uuid"
+	"github.com/matthewpi/pgtype/testutil"
 )
 
 func TestUUIDTranscode(t *testing.T) {

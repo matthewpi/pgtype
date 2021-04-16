@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/gofrs/uuid"
-	"github.com/jackc/pgtype"
+	"github.com/matthewpi/pgtype"
 )
 
 var errUndefined = errors.New("cannot encode status undefined")
